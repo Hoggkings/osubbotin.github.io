@@ -268,3 +268,25 @@ a:hover {
     height: 22px;
     margin-right: 4px;
 }
+
+.list6a {
+    padding:0;
+    list-style: none;
+}
+
+.list6a li{
+    padding:6px;
+}
+
+.list6a li:before {
+    padding-right:10px;
+    font-weight: bold;
+    color: #77AEDB;
+    content: "\2606";
+    transition-duration: 0.5s;
+}
+
+.list6a li:hover:before {
+    color: #337AB7;
+    content: "\2605";
+}
