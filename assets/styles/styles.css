@@ -291,10 +291,11 @@ a:hover {
     content: "\2605";
 }
 
-.main-item__title p span {
-  display: inline-block;
+.main-item__title p {
+  display: flex;
+  align-items: center;
 }
 
-.content__social-item {
-  vertical-align: middle;
+.icon-container {
+  margin-left: 10px; /* Adjust the margin as needed */
 }
