@@ -304,11 +304,11 @@ a:hover {
     padding-right:10px;
     font-weight: bold;
     color: #77AEDB;
-    content: "\2609";
+    content: "\2022";
     transition-duration: 0.5s;
 }
 
 .list6b li:hover:before {
     color: #337AB7;
-    content: "\2609";
+    content: "\2022";
 }
