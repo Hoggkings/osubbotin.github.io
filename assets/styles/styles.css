@@ -290,3 +290,11 @@ a:hover {
     color: #337AB7;
     content: "\2605";
 }
+
+.main-item__title p span {
+  display: inline-block;
+}
+
+.content__social-item {
+  vertical-align: middle;
+}
