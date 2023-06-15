@@ -151,7 +151,20 @@
 </div>
 
 <style>
-    .progress-bar {
+    .language-list {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .language-list li {
+      margin-bottom: 10px;
+    }
+
+    .language-name {
+      font-weight: bold;
+    }
+
+    .proficiency-bar {
       width: 300px;
       height: 20px;
       background-color: #f2f2f2;
@@ -159,54 +172,66 @@
       margin-bottom: 10px;
     }
 
-    .progress-bar .progress {
+    .proficiency-bar .progress {
       height: 100%;
       border-radius: 10px;
     }
 
-    .progress-bar .progress.html {
+    .proficiency-bar .progress.b1 {
       background-color: #ff6f61;
+      width: 20%;
+    }
+
+    .proficiency-bar .progress.b2 {
+      background-color: #64b5f6;
+      width: 40%;
+    }
+
+    .proficiency-bar .progress.b3 {
+      background-color: #aed581;
+      width: 60%;
+    }
+
+    .proficiency-bar .progress.c1 {
+      background-color: #ffb74d;
       width: 80%;
     }
 
-    .progress-bar .progress.css {
-      background-color: #64b5f6;
-      width: 70%;
-    }
-
-    .progress-bar .progress.js {
-      background-color: #aed581;
-      width: 50%;
-    }
-
-    .progress-bar .progress.python {
-      background-color: #ffb74d;
-      width: 60%;
+    .proficiency-bar .progress.c2 {
+      background-color: #4dd0e1;
+      width: 100%;
     }
   </style>
 </head>
 <body>
   <h1>Language Proficiency</h1>
 
-  <h3>HTML</h3>
-  <div class="progress-bar">
-    <div class="progress html"></div>
-  </div>
-
-  <h3>CSS</h3>
-  <div class="progress-bar">
-    <div class="progress css"></div>
-  </div>
-
-  <h3>JavaScript</h3>
-  <div class="progress-bar">
-    <div class="progress js"></div>
-  </div>
-
-  <h3>Python</h3>
-  <div class="progress-bar">
-    <div class="progress python"></div>
-  </div>
+  <ul class="language-list">
+    <li>
+      <span class="language-name">English</span>
+      <div class="proficiency-bar">
+        <div class="progress b2"></div>
+      </div>
+    </li>
+    <li>
+      <span class="language-name">French</span>
+      <div class="proficiency-bar">
+        <div class="progress b1"></div>
+      </div>
+    </li>
+    <li>
+      <span class="language-name">Spanish</span>
+      <div class="proficiency-bar">
+        <div class="progress b3"></div>
+      </div>
+    </li>
+    <li>
+      <span class="language-name">German</span>
+      <div class="proficiency-bar">
+        <div class="progress c1"></div>
+      </div>
+    </li>
+  </ul>
                 
                  <h2 class="content__subheader">Образование</h2>
                     <div class="content__main-item post">
