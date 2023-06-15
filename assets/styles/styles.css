@@ -312,3 +312,13 @@ a:hover {
     color: #337AB7;
     content: "\2022";
 }
+
+.list5a {
+   padding: 0; /* Remove default padding */
+   list-style: none; /* Remove default bullet points */
+}
+
+.list5a li {
+line-height: 2.7; /* Adjust the line height for spacing */
+margin-bottom: 3px; /* Add margin at the bottom for spacing */
+}
