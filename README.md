@@ -26,7 +26,7 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Test Documentation Tools: Microsoft Excel, Google Sheets, Microsoft Word
 * Database Knowledge: Basic understanding of SQL
 * Communication: Confluence, Discord
-* 
+  
 # Courses
 * Software Tester Future Collars
 
