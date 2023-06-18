@@ -11,20 +11,38 @@ I am an IT technician by profession. I completed postgraduate studies in Compute
 In my spare time, I take part in tests on the uTest platform and learn about new tools to support tests.
 Learn on your own using Udemy's courses, tutorials, and webinars and marathons on IT, testing and
 development. I am also learning the basics of Java and JavaScript to expand my automated testing skills in the future.
-# Tools used in testing:
-Chrome Dev Tools
-Mockaroo
+
+# Tech Stack
+* ISTQB Knowledge
+* Creating test plans, cases and scenarios
+* Supporting tools: Screenpresso, Devtools, MURAL
+* Web browsers: Chrome, Edge, Opera
+* Operating Systems: Windows, Android
+* Bug Tracking Tools: Jira, Bugzilla, Trello
+* API Testing: Postman
+* Test Management Tools: XRAY, TestRail, Zephyr, QTest
+* Version Control Systems: GIT
+* Virtualization and Containerization: VMware, VirtualBox, Docker
+* Test Documentation Tools: Microsoft Excel, Google Sheets, Microsoft Word
+* Database Knowledge: Basic understanding of SQL
+* Communication: Confluence, Discord
+* 
 # Courses
-Software Tester Future Collars
+* Software Tester Future Collars
 
 # Groups for knowledge gathering
-Testowanie oprogramowania - PRACA, Ogłoszenia
-Tester oprogramowania - jak nim zostać?
-Tester oprogramowania - wsparcie na starcie
-Grupa ISTQB - egzaminy, pytania, testy
-Wydarzenia Sii Polska
+* [IT Jobs for Intern/Junior] (https://www.facebook.com/groups/1561984417428846)
+* [Testowanie oprogramowania - PRACA, Ogłoszenia] (https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
+* [Testowanie oprogramowania] (https://www.facebook.com/groups/TestowanieOprogramowania)
+* [QA Testers - job offers, oferty pracy, jobangebote, вакансії] (https://www.facebook.com/groups/808752555920542/)
+* [Tester oprogramowania - wsparcie na starcie] (https://www.facebook.com/groups/testeroprogramowania/)
+* [ISTQB - egzaminy, pytania, testy] (https://www.facebook.com/groups/194288250951242)
+
 # Blogs read
-testerzy.pl
-testerka.pl
-toniebug.pl
-remigiuszbednarczyk.pl
+* [testerzy.pl] (testerzy.pl)
+* [testerka.pl] (testerka.pl)
+
+# My Test Documentation
+* [Bug Reports](https://github.com)
+* [Test Reports](https://github.com)
+* [Test Cases](https://github.com)
