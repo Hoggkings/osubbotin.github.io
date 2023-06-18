@@ -26,6 +26,11 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Test Documentation Tools: Microsoft Excel, Google Sheets, Microsoft Word
 * Database Knowledge: Basic understanding of SQL
 * Communication: Confluence, Discord
+
+# My Test Documentation
+* [Bug Reports](https://github.com)
+* [Test Reports](https://github.com)
+* [Test Cases](https://github.com)
   
 # Courses
 * Software Tester Future Collars
@@ -41,8 +46,3 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 # Blogs read
 * [testerzy.pl](testerzy.pl)
 * [testerka.pl](testerka.pl)
-
-# My Test Documentation
-* [Bug Reports](https://github.com)
-* [Test Reports](https://github.com)
-* [Test Cases](https://github.com)
