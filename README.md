@@ -31,16 +31,16 @@ development. I am also learning the basics of Java and JavaScript to expand my a
 * Software Tester Future Collars
 
 # Groups for knowledge gathering
-* [IT Jobs for Intern/Junior] (https://www.facebook.com/groups/1561984417428846)
-* [Testowanie oprogramowania - PRACA, Ogłoszenia] (https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
-* [Testowanie oprogramowania] (https://www.facebook.com/groups/TestowanieOprogramowania)
-* [QA Testers - job offers, oferty pracy, jobangebote, вакансії] (https://www.facebook.com/groups/808752555920542/)
-* [Tester oprogramowania - wsparcie na starcie] (https://www.facebook.com/groups/testeroprogramowania/)
-* [ISTQB - egzaminy, pytania, testy] (https://www.facebook.com/groups/194288250951242)
+* [IT Jobs for Intern/Junior](https://www.facebook.com/groups/1561984417428846)
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [QA Testers - job offers, oferty pracy, jobangebote, вакансії](https://www.facebook.com/groups/808752555920542/)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
+* [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 
 # Blogs read
-* [testerzy.pl] (testerzy.pl)
-* [testerka.pl] (testerka.pl)
+* [testerzy.pl](testerzy.pl)
+* [testerka.pl](testerka.pl)
 
 # My Test Documentation
 * [Bug Reports](https://github.com)
